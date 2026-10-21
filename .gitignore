@@ -41,3 +41,4 @@ codegen/
 
 # Working Files
 work*
+*.DS_Store
