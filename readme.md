@@ -1,6 +1,6 @@
-# ENGE 1215 Challenge 4
+# ENGE 1215 Challenge 4 Group 7
 
-matlab script for challenge 4. reads excel file, gets 4 items from user, finds total and most expensive item, saves receipt to TeamResults.csv and plots it.
+matlab repo for challenge 4. reads excel file, gets 4 items from user, finds total and most expensive item, saves receipt to TeamResults.csv and plots it.
 
 output of the terminal:
 ![terminal output](terminal_screenshot.png)
