@@ -8,4 +8,4 @@ output of the terminal:
 output of selecting 1 2 3 4:
 ![plot output](plot_screenshot.png)
 
-kthxbye -whron@vt.edu
+kthxbye - whron@vt.edu
