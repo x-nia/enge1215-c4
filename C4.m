@@ -1,5 +1,9 @@
 %% ENGE 1215 85166 Challenge 4: Group 7
 
+% hi TA, go check out the repo it has a readme and screenshots of the outputs (ㅅ´ ˘ `)
+% thanks alot - whron@vt.edu
+% https://github.com/x-nia/enge1215-c4 
+
 %% Part 1A: Import the menu
 MenuData = readmatrix('Challenge4.xlsx');
 itemList = MenuData(:, 1);
